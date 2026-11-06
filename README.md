@@ -4,6 +4,7 @@ Homebrew tap for these macOS apps:
 
 | App | Description | Install |
 |---|---|---|
+| [Klat](https://github.com/nandzz/klat) | A local voice for AI coding agents, over MCP | `brew install --cask nandzz/tap/klat` |
 | [Koment](https://github.com/nandzz/koment) | Leave inline notes on code and let Claude Code act on them | `brew install --cask nandzz/tap/koment` |
 | [NextWord](https://github.com/nandzz/next-word) | Suggests the next word and rewrites text in any app | `brew install --cask nandzz/tap/nextword` |
 
