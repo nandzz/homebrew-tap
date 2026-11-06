@@ -2,7 +2,11 @@
 
 Homebrew tap for these macOS apps.
 
-Before the first install, add the tap and trust it. Homebrew loads casks from a third-party tap only after you trust it:
+Before the first install, update Homebrew, add the tap and trust it. Homebrew loads casks from a third-party tap only after you trust it. If you added the tap before, `brew update` gets its newest casks:
+
+```sh
+brew update
+```
 
 ```sh
 brew tap nandzz/tap
