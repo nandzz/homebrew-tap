@@ -1,6 +1,16 @@
 # nandzz tap
 
-Homebrew tap for these macOS apps:
+Homebrew tap for these macOS apps.
+
+Before the first install, add the tap and trust it. Homebrew loads casks from a third-party tap only after you trust it:
+
+```sh
+brew tap nandzz/tap
+```
+
+```sh
+brew trust nandzz/tap
+```
 
 | App | Description | Install |
 |---|---|---|
